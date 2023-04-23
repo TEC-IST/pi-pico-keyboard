@@ -1,7 +1,6 @@
 # pi-pico-keyboard
 
-Updated April 2023: v2 'alpha' is reduced to around the size of a quarter (note: code in this repository is still for v1)
-
+Updated April 2023: v2 'alpha' is reduced to around the size of a quarter (note: code in this repository is still for v1): https://youtu.be/KFr5jRC6k0c
 
 ---
 
