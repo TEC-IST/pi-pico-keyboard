@@ -1,4 +1,11 @@
 # pi-pico-keyboard
+
+Updated April 2023: v2 'alpha' is reduced to around the size of a quarter (note: code in this repository is still for v1)
+
+
+---
+
+
 A 59-key USB HID open hardware PC keyboard using a Raspberry Pi Pico microcontroller and CircuitPython for the key matrix decoder.  This might be the smallest PC keyboard -- it fits within the outline of the Pico for direct soldering.
 
 Build video: [YouTube](https://www.youtube.com/watch?v=iWWTJKWFNok)
